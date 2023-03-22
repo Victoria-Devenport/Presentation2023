@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Victoria-Devenport.github.io/Presentation2023/annotations/fbe487018c2209a9836f67e10b3f933d.json" ],
+  "@id" : "https://Victoria-Devenport.github.io/Presentation2023/annotations/collection.json",
+  "label" : "All annotations loaded in Victoria-Devenport/Presentation2023 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
