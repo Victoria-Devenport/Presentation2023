@@ -1,0 +1,109 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "aaa",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>aaa</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/128502314",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-22T16:48:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679503734604",
+    "dcterms:modified" : "2023-03-22T16:48:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Victoria-Devenport.github.io/Presentation2023/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1030,1980,0,0"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1030.08747,1980.03751\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_b08dbe0f-9a9f-4803-93ef-d9ac68c81e6f\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8ea8415-a2d0-47e3-8b1c-e36905fcf6d6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Smoke cloud",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Smoke cloud</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/128502314",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-22T16:57:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679504259027",
+    "dcterms:modified" : "2023-03-22T16:57:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Victoria-Devenport.github.io/Presentation2023/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=258,660,460,1347"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M651.04218,857.45736c-42.48757,-113.15899 -102.42318,-197.42465 -162.64923,-197.32398v0v0c-60.22605,0.10068 -112.69305,78.92985 -162.64923,197.32398c-49.95619,118.39413 -69.37352,298.80393 -67.37152,476.38222c2.002,177.57829 25.42334,352.32507 67.37152,476.38222c41.94817,124.05715 102.42318,197.42465 162.64923,197.32398c60.22605,-0.10068 120.20315,-73.66953 162.64923,-197.32398c42.44608,-123.65444 67.36115,-297.39447 67.37152,-476.38222c0.01037,-178.98775 -24.88394,-363.22323 -67.37152,-476.38222z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f87539dd-feef-4feb-b061-c1a0f688c156\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8ea8415-a2d0-47e3-8b1c-e36905fcf6d6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Food",
+      "@type" : "oa:Tag",
+      "chars" : "Food"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mince pie",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mince pie</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/128502314",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-03-22T16:57:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679504226301",
+    "dcterms:modified" : "2023-03-22T16:57:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Victoria-Devenport.github.io/Presentation2023/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=795,961,735,404"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M902.99445,1020.14837c67.90105,-33.9232 163.68648,-59.18466 259.93608,-59.15448v0v0c96.2496,0.03018 180.09915,23.66187 259.93608,59.15448c79.83693,35.49261 110.86853,89.5765 107.66905,142.81155c-3.19948,53.23505 -40.63004,105.62126 -107.66905,142.81155c-67.03901,37.19029 -163.68648,59.18466 -259.93608,59.15448c-96.2496,-0.03018 -192.10134,-22.08491 -259.93608,-59.15448c-67.83474,-37.06957 -107.65247,-89.15397 -107.66905,-142.81155c-0.01658,-53.65758 39.768,-108.88835 107.66905,-142.81155z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_b5aeb9a4-17c3-466f-81c6-6b005f2ee197\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8ea8415-a2d0-47e3-8b1c-e36905fcf6d6"
+    } ]
+  } ],
+  "@id" : "https://Victoria-Devenport.github.io/Presentation2023/annotations/fbe487018c2209a9836f67e10b3f933d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
