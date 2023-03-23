@@ -1,0 +1,168 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Victoria-Devenport.github.io/Presentation2023/manifests/manifestanimals3.json",
+  "@type" : "sc:Manifest",
+  "label" : "All about animals",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Items supplied by the British Library. https://creativecommons.org/publicdomain/mark/1.0/",
+  "sequences" : [ {
+    "@id" : "http://466fb270-831b-4b89-a8dd-2d79430574da",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://648f5acd-dde4-4755-b31b-d1c8c0e70298",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2418,
+      "width" : 1409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3578229a-dcd2-495b-881f-bcb256b31b80",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005BF5E.0x000131/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005BF5E.0x000131",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2418,
+          "width" : 1409
+        },
+        "on" : "http://648f5acd-dde4-4755-b31b-d1c8c0e70298"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bf16fa39-05b2-41f1-9216-5093111be992",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2672,
+      "width" : 1854,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://70479cb8-67a0-4b00-8b84-039f8418c17d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000002F78C.0x000012/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000002F78C.0x000012",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2672,
+          "width" : 1854
+        },
+        "on" : "http://bf16fa39-05b2-41f1-9216-5093111be992"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://319787f9-6b13-4a14-8aa5-1daa933adacb",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2352,
+      "width" : 1502,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b7f80941-7e5d-436d-857c-b5e5f509be1a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_000000016808.0x0000F9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_000000016808.0x0000F9",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2352,
+          "width" : 1502
+        },
+        "on" : "http://319787f9-6b13-4a14-8aa5-1daa933adacb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f462ada-9212-4d09-8e4b-6299d1d7d5f3",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2418,
+      "width" : 1409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://49d3d0cf-1549-4f54-9264-4506ff0b4784",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005BF5E.0x0000DB/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005BF5E.0x0000DB",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2418,
+          "width" : 1409
+        },
+        "on" : "http://8f462ada-9212-4d09-8e4b-6299d1d7d5f3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://188c434e-4653-4779-86a5-4aa376c94f08",
+      "@type" : "sc:Canvas",
+      "label" : "Travels in South Africa, undertaken at the request of the London Missionary Society; being a narrative of a second journey in the interior of that country. By the Rev. John Campbell. With a map and coloured plates Volume I",
+      "height" : 2653,
+      "width" : 1521,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://937b6d35-3253-4804-92e3-df03e5baf7a9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005CD98.0x00014D/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005CD98.0x00014D",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 2653,
+          "width" : 1521
+        },
+        "on" : "http://188c434e-4653-4779-86a5-4aa376c94f08"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
